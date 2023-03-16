@@ -1,0 +1,8 @@
+Exercise - Big Primes
+
+1. Source - emit 10 elements
+2. Convert element to a random BigInteger
+3. Find the next probable prime and print it
+4. Group the primes into a list
+5. Sort the list into ASC order
+6. Print out the list
